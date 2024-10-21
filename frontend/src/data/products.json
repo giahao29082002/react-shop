@@ -1,0 +1,213 @@
+[
+  {
+    "_id": 1,
+    "name": "Khoai tây chiên",
+    "category": "dessert",
+    "description": "Giòn tan ngất ngây",
+    "price": 12.000,
+    "oldPrice": 18.76,
+    "image": "https://i.pinimg.com/originals/43/98/35/43983584af8535f065c6bb53aab711cc.png",
+    "size": "S",
+    "rating": 4.8,
+    "author":"admin"
+  },
+  {
+    "_id": 2,
+    "name": "Coca Cola ",
+    "category": "drink",
+    "description": "Vị ngon nguyên bản",
+    "price": 18.000,
+    "oldPrice": 20.99,
+    "image": "https://th.bing.com/th/id/OIP.6S37weihrG9jtE4ZTphmNAAAAA?rs=1&p_id=ImgDetMain",
+    "size": "L",
+    "rating": 4.0
+  },
+  {
+    "_id": 3,
+    "name": "Burger Gà Phô Mai",
+    "category": "food",
+    "description": "Food gà và phô mai ",
+    "price": 35.02,
+    "image": "https://th.bing.com/th/id/OIP.dIwD1Sc37qeUY2a-EDbMjAHaHa?rs=1&p_id=ImgDetMain",
+    "size": "",
+    "rating": 4.9
+  },
+  {
+    "_id": 4,
+    "name": "Phô mai que (2 cái)",
+    "category": "dessert",
+    "description": "Phô mai kéo sợi và lớp vỏ giòn tan.",
+    "price": 20,
+    "image": "https://www.lotteria.vn/media/catalog/product/d/e/dessert_cheese_stick_1_.png",
+    "size": "",
+    "rating": 4.2
+  },
+  {
+    "_id": 5,
+    "name": "Gà sốt cay ngọt",
+    "category": "food",
+    "description": "1 miếng gà rán sốt cay ngọt",
+    "price": 30.5,
+    "oldPrice": 35.000,
+    "image": "https://www.lotteria.vn/media/catalog/product/m/e/menu_k_chciken_menu_copy.png",
+    "size": "",
+    "rating": 4.3
+  },
+  {
+    "_id": 6,
+    "name": "Pepsi",
+    "category": "drink",
+    "description": "Pepsi vị nguyên bản",
+    "price": 14,
+    "image": "https://www.lotteria.vn/media/catalog/product/d/r/drink_pepsi_m_l_.png",
+    "size": "M",
+    "rating": 4.4
+  },
+  {
+    "_id": 7,
+    "name": "Mì ý thịt bò",
+    "category": "food",
+    "description": "Mì ý sốt và thịt bò ",
+    "price":35.000,
+    "oldPrice": 20,
+    "image": "https://www.lotteria.vn/media/catalog/product/l/r/lr0038_6.png",
+    "size": "M",
+    "rating": 4.8
+  },
+  {
+    "_id": 8,
+    "name": "Mực vòng rán (3 cái)",
+    "category": "food",
+    "description": "Mực tươi hòa cùng gia vị đậm đà",
+    "price": 35,
+    "image": "https://www.lotteria.vn/media/catalog/product/l/s/ls0006_5.png",
+    "size": "",
+    "rating": 4.1
+  },
+  {
+    "_id": 9,
+    "name": "Pizza gà phô mai ",
+    "category": "food",
+    "description": "Sự kết hợp mới mẻ của Pizza",
+    "price": 35.00,
+    "image": "https://www.lotteria.vn/media/catalog/product/p/i/pizza-01.png",
+    "size": "",
+    "rating": 4.6
+  },
+  {
+    "_id": 10,
+    "name": "Cơm gà nướng",
+    "category": "food",
+    "description": "Cơm + salad + 1 miếng gà nướng",
+    "price": 38,
+    "oldPrice": 40,
+    "image": "https://www.lotteria.vn/media/catalog/product/l/r/lr0047-online_5.png",
+    "size": "",
+    "rating": 4.2
+  },
+  {
+    "_id": 11,
+    "name": "Bánh bao chiên (3 cái)",
+    "category": "dessert",
+    "description": "Bánh bao chiên chấm sữa đặc",
+    "price": 18.10,
+    "oldPrice": 21.20,
+    "image": "https://www.lotteria.vn/media/catalog/product/d/e/dessert_fried_mantou.png",
+    "size": "",
+    "rating": 4.8
+  },
+  {
+    "_id":12,
+    "name": "Soda Việt Quất ",
+    "category": "drink",
+    "description": "Vị ngon thanh mát",
+    "price": 20.10,
+    "oldPrice": 23.90,
+    "image": "https://diemdungchandongthap.com/wp-content/uploads/2022/05/soda-viet-quat.jpg",
+    "size": "L",
+    "rating": 4.0
+  },
+  {
+    "_id": 13,
+    "name": "Combo Burger Bò Nhỏ",
+    "category": "combo",
+    "description": "Burger bò + Coca/Pepsi (M) + Khoai tây chiên (M) ",
+    "price": 13.00,
+    "image": "https://www.lotteria.vn/media/catalog/product/c/o/combo_bulgogi_6.png",
+    "size": "",
+    "rating": 4.9
+  },
+  {
+    "_id": 14,
+    "name": "Phô mai que (4 cái)",
+    "category": "dessert",
+    "description": "Phô mai kéo sợi và lớp vỏ giòn tan.",
+    "price": 40.23,
+    "image": "https://www.lotteria.vn/media/catalog/product/d/e/dessert_cheese_stick_1_.png",
+    "size": "",
+    "rating": 4.2
+  },
+  {
+    "_id": 15,
+    "name": "Cơm Gà sốt cay ngọt",
+    "category": "dood",
+    "description": "Cơm + salad + 1 miếng gà",
+    "price": 30.12,
+    "oldPrice": 3521,
+    "image": "https://www.lotteria.vn/media/catalog/product/l/r/lr0088-online_1.png",
+    "size": "",
+    "rating": 4.9
+  },
+  {
+    "_id": 16,
+    "name": "Pepsi",
+    "category": "drink",
+    "description": "Pepsi vị nguyên bản",
+    "price": 20.12,
+    "image": "https://www.lotteria.vn/media/catalog/product/d/r/drink_pepsi_m_l_.png",
+    "size": "L",
+    "rating": 4.4
+  },
+  {
+    "_id": 17,
+    "name": "Combo Mì ý thịt bò",
+    "category": "combo",
+    "description": "Mì ý sốt và thịt bò + Khoai tây chiên (M) + Coca/Pepsi (M)",
+    "price":35.12,
+    "oldPrice": 40.12,
+    "image": "https://www.lotteria.vn/media/catalog/product/l/r/lr0038_6.png",
+    "size": "",
+    "rating": 4.8
+  },
+  {
+    "_id": 18,
+    "name": "Mực vòng rán (5 cái)",
+    "category": "food",
+    "description": "Mực tươi hòa cùng gia vị đậm đà",
+    "price": 35.12,
+    "image": "https://www.lotteria.vn/media/catalog/product/l/s/ls0006_5.png",
+    "size": "",
+    "rating": 4.1
+  },
+  {
+    "_id": 19,
+    "name": "Pizza gà phô mai ",
+    "category": "food",
+    "description": "Sự kết hợp mới mẻ của Pizza",
+    "price": 35.00,
+    "image": "https://www.lotteria.vn/media/catalog/product/p/i/pizza-01.png",
+    "size": "",
+    "rating": 4.5
+  },
+  {
+    "_id": 20,
+    "name": "Cơm gà nướng",
+    "category": "food",
+    "description": "Cơm + salad + 1 miếng gà nướng",
+    "price": 23.90,
+    "oldPrice": 40.31,
+    "image": "https://www.lotteria.vn/media/catalog/product/l/r/lr0047-online_5.png",
+    "size": "",
+    "rating": 5
+  }
+]

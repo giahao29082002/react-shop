@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "Nugget Chicken nhỏ nhưng hấp dẫn to",
+    "subtitle": "Sắp ra mắt",
+    "date": "30th September 2024",
+    "imageUrl": "https://www.lotteria.vn/media/catalog/product/d/e/dessert_chicken_nugget_3_5_mi_ng_.png"
+  },
+  {
+    "id": 2,
+    "title": "Mực vòng rộp rộp",
+    "subtitle": "Best Seller",
+    "date": "18th September 2023",
+    "imageUrl": "https://www.lotteria.vn/media/catalog/product/l/s/ls0006_5.png"
+  },
+  {
+    "id": 3,
+    "title": "Ăn lặt vặt nhặt vị ngon",
+    "subtitle": "Mua ngay kẻo lỡ!",
+    "date": "5th January 2023",
+    "imageUrl": "https://www.lotteria.vn/media/catalog/product/p/a/pack_lony_set_2_.png"
+  },
+  {
+      "id": 4,
+      "title": "Đến là đón ăn là ghiền",
+      "subtitle": "Hot",
+      "date": "25th May 2024",
+      "imageUrl": "https://www.lotteria.vn/media/catalog/product/m/e/menu_k_chciken_menu.png"
+    }
+]
